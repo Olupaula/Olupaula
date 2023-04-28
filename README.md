@@ -27,7 +27,7 @@ models on websites.</p>
 <ol>
 <li> Predictive Models</li>
 <li> Classification Models </li>
-<l1> Text Processing </li>
+<li> Text Processing </li>
 <ol>
 </p>
 
