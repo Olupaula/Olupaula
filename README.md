@@ -22,3 +22,14 @@ processing. Comfortable working with large datasets.
 Skilled at writing html, markdown, css and deploying 
 models on websites.</p>
 
+<p> #### I am Interested in
+<ol>
+<li> Predictive Models<li>
+<li> Classification Models <l1>
+<l1> Text Processing <l1>
+<ol>
+</p>
+
+<p> #### Skills 
+
+</p>
