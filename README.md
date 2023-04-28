@@ -25,9 +25,9 @@ models on websites.</p>
 #### I am Interested in
 <p>
 <ol>
-<li> Predictive Models<li>
-<li> Classification Models <li>
-<l1> Text Processing <li>
+<li> Predictive Models</li>
+<li> Classification Models </li>
+<l1> Text Processing </li>
 <ol>
 </p>
 
