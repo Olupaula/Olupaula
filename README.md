@@ -32,12 +32,12 @@ models on websites.</p>
 </p>
 
 #### Programs I have worked with 
-1. Python (Numpy, Pandas, Sklearn, Keras, Django)
-2. R
-3. Java Script (Vanilla)
-4. Java
-5. Html
-6. Css
+- Python (Numpy, Pandas, Sklearn, Keras, Django)
+- R
+- Java Script (Vanilla)
+- Java
+- Html
+- Css
 
 #### Machine Learning Projects
 1. Classification Projects
