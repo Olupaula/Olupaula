@@ -41,6 +41,6 @@ models on websites.</p>
 
 #### Machine Learning Projects
 1. Classification Projects
-  a. [Absenteeism Model](https://www.kaggle.com/code/oluade111/absenteeism-notebook/edit/run/126582708)
-  b. [Wine Model]()
+    a. [Absenteeism Model](https://www.kaggle.com/code/oluade111/absenteeism-notebook/edit/run/126582708)
+    b. [Wine Model]()
 
