@@ -31,7 +31,9 @@ models on websites.</p>
 </ol>
 </p>
 
-#### Skills 
-<p>
+#### Programs I have worked with 
+1. Python (Numpy, Pandas, Sklearn, Keras, Django)
+2. R
+3. Java Script (Vanilla)
+4. Java
 
-</p>
