@@ -36,4 +36,10 @@ models on websites.</p>
 2. R
 3. Java Script (Vanilla)
 4. Java
+5. Html
+6. Css
+
+#### Machine Learning Projects
+1. Classification Projects
+  a. Absenteeism Model
 
