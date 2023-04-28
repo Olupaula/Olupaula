@@ -22,7 +22,7 @@ processing. Comfortable working with large datasets.
 Skilled at writing html, markdown, css and deploying 
 models on websites.</p>
 
-#### I am Interested in
+#### I am Interested in:
 <p>
 <ol>
 <li> Predictive Models</li>
@@ -31,13 +31,19 @@ models on websites.</p>
 </ol>
 </p>
 
-#### Programs I have worked with 
+#### Programming Languages I have used: 
 - Python (Numpy, Pandas, Sklearn, Keras, Django)
 - R
 - Java Script (Vanilla)
 - Java
+
+
+#### Other Languages:
 - Html
 - Css
+- Markup
+- Xml
+- yaml
 
 #### Machine Learning Projects
 1. Classification Projects
