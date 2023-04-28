@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am <b> Oluwafemi Paul, Adeyemi</b>
+### I am <b> Oluwafemi Paul Adeyemi</b>
 <p> I have just concluded an M.Sc. in Statistics Program at the University of Ilorin.
 I am a Machine Learning enthusiast. Proficint in classification models, predictive models, text-
 processing. Comfortable working with large datasets. 
@@ -28,7 +28,7 @@ models on websites.</p>
 <li> Predictive Models</li>
 <li> Classification Models </li>
 <li> Text Processing </li>
-<ol>
+</ol>
 </p>
 
 #### Skills 
