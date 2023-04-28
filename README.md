@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am <b> Oluwafemi Paul, Adeyemi</b>
+<p> I have just concluded an M.Sc. in Statistics Program at the University of Ilorin.
+I am a Machine Learning enthusiast. Proficint in classification models, predictive models, text-
+processing. Comfortable working with large datasets. 
+Skilled at writing html, markdown, css and deploying 
+models on websites.</p>
+
