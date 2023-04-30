@@ -47,6 +47,6 @@ models on websites.</p>
 
 #### Machine Learning Projects
 1. Classification Projects
-    - [Absenteeism Model]()
-    - [Wine Model]()
+    - [Absenteeism Model](https://github.com/Olupaula/absenteeism)
+    - Nursery()
 
