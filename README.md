@@ -22,6 +22,8 @@ processing. Comfortable working with large datasets.
 Skilled at writing html, markdown, css and deploying 
 models on websites.</p>
 
+<hr/>
+
 ### I am Interested in:
 <p>
 <ol>
@@ -45,6 +47,8 @@ models on websites.</p>
 - Xml
 - yaml
 
+<hr/>
+
 ### Machine Learning Projects
 #### 1. Classification Projects
   
@@ -58,8 +62,8 @@ models on websites.</p>
   - #### [Nursery](https://github.com/Olupaula/nursery)
 <div>
    <a href="https://github.com/Olupaula/absenteeism">
-     <img syle="right" src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
+     <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
    </a>
 </div>
  
-
+<hr/>
