@@ -14,13 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
-    <script>
-        .projects {
 
-        }
-    </script>
-</head>
 ### I am <b> Oluwafemi Paul Adeyemi</b>
 <p> I have just concluded an M.Sc. in Statistics Program at the University of Ilorin.
 I am a Machine Learning enthusiast. Proficient in classification models, predictive models, text-
@@ -59,7 +53,7 @@ models on websites.</p>
          <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="25%" width="30%" />
         </a>
     </div>
-    <div style="float: left">
+    <div style="float: right;">
        <a href="https://github.com/Olupaula/absenteeism">
          <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="25%" width="30%" />
        </a>
