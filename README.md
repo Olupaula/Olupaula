@@ -22,7 +22,7 @@ processing. Comfortable working with large datasets.
 Skilled at writing html, markdown, css and deploying 
 models on websites.</p>
 
-<hr/>
+___
 
 ### I am Interested in:
 <p>
@@ -47,8 +47,7 @@ models on websites.</p>
 - Xml
 - yaml
 
-
-<hr/>
+___
 
 ### Machine Learning Projects
 #### 1. Classification Projects
@@ -67,5 +66,4 @@ models on websites.</p>
    </a>
 </div>
  
- 
-<hr/>
+___
