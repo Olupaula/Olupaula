@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <head>
     <script>
         .projects {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
+
         }
     </script>
 </head>
