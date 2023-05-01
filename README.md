@@ -54,9 +54,9 @@ models on websites.</p>
     </div>
 
     <div>
-        1 [Nursery]()
-        [Absenteeism Model](https://github.com/Olupaula/absenteeism)
-        <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="60%" width="65%" >
+       <a href="https://github.com/Olupaula/absenteeism">
+         <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="60%" width="65%" >
+       </a>
     </div>
  <div>
 
