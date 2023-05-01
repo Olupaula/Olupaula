@@ -55,9 +55,8 @@ models on websites.</p>
   
   
 <p align="center">
-  
+<h4>  <a href="https://github.com/Olupaula/absenteeism">Absenteeism</a>/h4>
     <a href="https://github.com/Olupaula/absenteeism">
-      <h4>Absenteeism</h4>
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="150px" width="60%" />
     </a>
 </p>
