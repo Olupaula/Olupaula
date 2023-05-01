@@ -54,7 +54,6 @@ models on websites.</p>
          <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="40%" width="45%" >
         </a>
     </div>
-    
     <div>
         Nursery
        <a href="https://github.com/Olupaula/absenteeism">
