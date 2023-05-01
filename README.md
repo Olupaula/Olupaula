@@ -49,7 +49,7 @@ models on websites.</p>
 1. Classification Projects
 
  
-   - #### Absenteeism
+   -#### Absenteeism
 <div style="margin-bottom: 150px;">
     <a href="https://github.com/Olupaula/absenteeism">
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="150px" width="60%" />
@@ -57,7 +57,7 @@ models on websites.</p>
 </div>
 
     
-   - #### Nursery
+   -#### Nursery
 <div>
    <a href="https://github.com/Olupaula/absenteeism">
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
