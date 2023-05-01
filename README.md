@@ -48,7 +48,7 @@ models on websites.</p>
 - yaml
 
 
-<hr/>
+<hr style="border: 2px solid grey;" />
 
 ### Machine Learning Projects
 #### 1. Classification Projects
