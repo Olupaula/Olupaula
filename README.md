@@ -54,18 +54,18 @@ models on websites.</p>
 #### 1. Classification Projects
   
   - #### [Absenteeism](https://github.com/Olupaula/absenteeism)
-<div align="center;">
+<p align="center;">
   sdsd
     <a href="https://github.com/Olupaula/absenteeism">
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="150px" width="60%" />
     </a>
-</div>
+</p
 
   - #### [Nursery](https://github.com/Olupaula/nursery)
-<div align="center;">
+<p align="center;">
    <a href="https://github.com/Olupaula/absenteeism">
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
    </a>
-</div>
+</p>
  
 
