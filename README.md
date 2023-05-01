@@ -55,7 +55,7 @@ models on websites.</p>
   
   
 <p align="center">
-  <a href="https://github.com/Olupaula/absenteeism">Absenteeism</a>
+  <h4><a href="https://github.com/Olupaula/absenteeism">Absenteeism</a></h4>
   <br/>
     <a href="https://github.com/Olupaula/absenteeism">
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="150px" width="60%" />
@@ -63,7 +63,7 @@ models on websites.</p>
 </p>
 
 <p align="center">
-   <h4> Nursery](https://github.com/Olupaula/nursery) </h4>
+   <h4>Nursery](https://github.com/Olupaula/nursery)</h4>
    <a href="https://github.com/Olupaula/absenteeism">
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
    </a>
