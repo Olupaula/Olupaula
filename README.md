@@ -48,11 +48,12 @@ models on websites.</p>
 #### Machine Learning Projects
 1. Classification Projects
 <div style="display: grid; grid-template-columns: 1fr 1fr" >
-    <div><a href="https://github.com/Olupaula/absenteeism">
+    Absenteeism
+    <div>
+        <a href="https://github.com/Olupaula/absenteeism">
          <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="60%" width="65%" >
-         </a>
+        </a>
     </div>
-
     <div>
        <a href="https://github.com/Olupaula/absenteeism">
          <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="60%" width="65%" >
