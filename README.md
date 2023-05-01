@@ -64,6 +64,7 @@ models on websites.</p>
 
 <p align="center">
    <a href="https://github.com/Olupaula/nursery">Nursery</a>
+  <br/>
    <a href="https://github.com/Olupaula/absenteeism">
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
    </a>
