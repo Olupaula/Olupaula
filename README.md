@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am <b> Oluwafemi Paul Adeyemi</b>
+## I am <b> Oluwafemi Paul Adeyemi</b>
 <p> I have just concluded an M.Sc. in Statistics Program at the University of Ilorin.
 I am a Machine Learning enthusiast. Proficient in classification models, predictive models, text-
 processing. Comfortable working with large datasets. 
 Skilled at writing html, markdown, css and deploying 
 models on websites.</p>
 
-#### I am Interested in:
+### I am Interested in:
 <p>
 <ol>
 <li> Predictive Models</li>
@@ -31,22 +31,22 @@ models on websites.</p>
 </ol>
 </p>
 
-#### Programming Languages I have used: 
+### Programming Languages I have used: 
 - Python (Numpy, Pandas, Sklearn, Keras, Django)
 - R
 - Java Script (Vanilla)
 - Java
 
 
-#### Other Languages:
+### Other Languages:
 - Html
 - Css
 - Markup
 - Xml
 - yaml
 
-#### Machine Learning Projects
-1. Classification Projects
+### Machine Learning Projects
+### 1. Classification Projects
   
   - #### Absenteeism
 <div style="margin-bottom: 150px;">
