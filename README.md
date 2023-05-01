@@ -58,5 +58,5 @@ models on websites.</p>
          <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="60%" width="65%" >
        </a>
     </div>
- <div>
+ </div>
 
