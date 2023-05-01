@@ -48,7 +48,7 @@ models on websites.</p>
 #### Machine Learning Projects
 1. Classification Projects
     - [Absenteeism Model](https://github.com/Olupaula/absenteeism)
-    ![sd](Olupaula/absenteeism/images/arlington-research-kN_kViDchA0-unsplash.jpg)
+    ![absenteeism]([Olupaula/absenteeism/images/arlington-research-kN_kViDchA0-unsplash.jpg](https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg))
     
     - [Nursery]()
 
