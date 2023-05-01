@@ -55,14 +55,15 @@ models on websites.</p>
   
   
 <p align="center">
-  <span>[Absenteeism](https://github.com/Olupaula/absenteeism)</span>
+  
     <a href="https://github.com/Olupaula/absenteeism">
+      <h4>Absenteeism</h4>
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="150px" width="60%" />
     </a>
 </p>
 
 <p align="center">
-    #### [Nursery](https://github.com/Olupaula/nursery)
+   <h4> Nursery](https://github.com/Olupaula/nursery) </h4>
    <a href="https://github.com/Olupaula/absenteeism">
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
    </a>
