@@ -73,9 +73,9 @@ models on websites.</p>
 #### 2. Prediction Projects
  
 <p align="center">
-   <a href="https://github.com/Olupaula/nursery">Energy Consumption</a>
+   <a href="https://github.com/Olupaula/energy_consumption">Energy Consumption</a>
   <br/>
-   <a href="https://github.com/Olupaula/nursery">
+   <a href="https://github.com/Olupaula/energy_consumption">
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
    </a>
 </p>
