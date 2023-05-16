@@ -76,7 +76,7 @@ models on websites.</p>
    <a href="https://github.com/Olupaula/energy_consumption">Energy Consumption</a>
   <br/>
    <a href="https://github.com/Olupaula/energy_consumption">
-     <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
+     <img src="./energy_consumption/energy_consumption_images/Uploading christopher-burns-8KfCR12oeUM-unsplash.jpg" height="150px" width="60%" />
    </a>
 </p>
  
