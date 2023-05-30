@@ -93,5 +93,9 @@ models on websites.</p>
 2. [Scores](https://github.com/Olupaula/scores
 )
 3. [The forum](https://github.com/Olupaula/the_forum)
+
+### Machine Learning Projects (Using R)
+1. Classification: 
+2. Prediction:
 images source: www.unsplash.com
 
