@@ -81,10 +81,10 @@ models on websites.</p>
 </p>
  
  <p align="center">
-   <a href="https://github.com/Olupaula/energy_consumption">Condition Based Maintenance of Naval Propulsion Plants</a>
+   <a href="https://github.com/Olupaula/condition_based_maintenance">Condition Based Maintenance of Naval Propulsion Plants</a>
   <br/>
-   <a href="https://github.com/Olupaula/energy_consumption">
-     <img src="https://github.com/Olupaula/energy_consumption/blob/main/energy_consumption_images/christopher-burns-8KfCR12oeUM-unsplash.jpg" height="150px" width="60%" />
+   <a href="https://github.com/Olupaula/condition_based_maintenance">
+     <img src="https://github.com/Olupaula/condition_based_maintenance/blob/main/cbm_images/thomas-haas-Rs5FCVANby0-unsplash.jpg" height="150px" width="60%" />
    </a>
 </p>
 
