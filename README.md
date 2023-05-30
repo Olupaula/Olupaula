@@ -96,7 +96,15 @@ models on websites.</p>
 
 ### Machine Learning Projects (Using R)
 1. Classification: 
-2. Prediction:
-3. 
+<p align="center">
+   <a href="https://github.com/Olupaula/heart_failure">Heart Failure</a>
+  <br/>
+   <a href="https://github.com/Olupaula/heart_failure">
+     <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
+   </a>
+</p>
+
+2 Prediction:
+ 
 images source: www.unsplash.com
 
