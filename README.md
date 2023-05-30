@@ -50,7 +50,7 @@ models on websites.</p>
 
 
 
-### Machine Learning Projects (with API's)
+### Machine Learning Projects (with Web API)
 #### 1. Classification Projects
   
   
