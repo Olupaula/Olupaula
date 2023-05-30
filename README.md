@@ -88,7 +88,7 @@ models on websites.</p>
    </a>
 </p>
 
-### Web/Machine Learning Projects
+### Websites/Machine Learning Projects
 1. [MlClinic (Health)](https://github.com/Olupaula/mlclinic)
 2. [Scores](https://github.com/Olupaula/scores
 )
