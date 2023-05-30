@@ -100,7 +100,7 @@ models on websites.</p>
    <a href="https://github.com/Olupaula/heart_failure">Heart Failure</a>
   <br/>
    <a href="https://github.com/Olupaula/heart_failure">
-     <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
+     <img src="https://github.com/Olupaula/heart_failure/blob/main/heart_failure_images/robina-weermeijer-qIK_fc-4fmw-unsplash.jpg" height="150px" width="60%" />
    </a>
 </p>
 
