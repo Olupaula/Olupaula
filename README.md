@@ -104,7 +104,7 @@ models on websites.</p>
    </a>
 </p>
 
-2 Prediction:
+2. Prediction:
  
 images source: www.unsplash.com
 
