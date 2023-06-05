@@ -49,7 +49,7 @@ models on websites.</p>
 - Xml
 - yaml
 
-
+[See my Curriculum Vitae](https://github.com/Olupaula/Olupaula/blob/main/Adeyemi_Oluwafemi_ml_cv.pdf)
 
 ### Machine Learning Projects (with Web API)
 #### 1. Classification Projects
