@@ -22,7 +22,7 @@ processing. Comfortable working with large datasets.
 Skilled at writing html, markdown, css and deploying 
 models on websites.</p>
 
-
+[See my Curriculum Vitae](https://github.com/Olupaula/Olupaula/blob/main/Adeyemi_Oluwafemi_ml_cv.pdf)
 
 ### I am Interested in:
 <p>
@@ -48,8 +48,6 @@ models on websites.</p>
 - R Markdown
 - Xml
 - yaml
-
-[See my Curriculum Vitae](https://github.com/Olupaula/Olupaula/blob/main/Adeyemi_Oluwafemi_ml_cv.pdf)
 
 ### Machine Learning Projects (with Web API)
 #### 1. Classification Projects
