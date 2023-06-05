@@ -44,7 +44,8 @@ models on websites.</p>
 ### Other Languages:
 - Html
 - Css
-- Markup
+- Markdown
+- R Markdown
 - Xml
 - yaml
 
