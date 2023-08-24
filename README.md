@@ -86,10 +86,11 @@ models on websites.</p>
      <img src="https://github.com/Olupaula/condition_based_maintenance/blob/main/cbm_images/thomas-haas-Rs5FCVANby0-unsplash.jpg" height="150px" width="60%" />
    </a>
 </p>
+
 #### 3. Unsupervised Learning
 
 <p align="center">
-   <a href="https://github.com/Olupaula/heart_failure">Heart Failure</a>
+   <a href="https://github.com/Olupaula/heart_failure">Wine</a>
   <br/>
    <a href="https://github.com/Olupaula/heart_failure">
      <img src="https://github.com/Olupaula/heart_failure/blob/main/heart_failure_images/robina-weermeijer-qIK_fc-4fmw-unsplash.jpg" height="150px" width="60%" />
