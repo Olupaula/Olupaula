@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am <b> Oluwafemi Paul Adeyemi</b>
+## I am <b> Adeyemi, Oluwafemi Paul</b>
 <p> A graduand of Statistics (M.Sc.) of the University of Ilorin.
 I am a Machine Learning enthusiast. Proficient in classification models, predictive models, clustering models and text-processing. I am comfortable working with large datasets. 
 Skilled at writing html, markdown, css and deploying 
