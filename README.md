@@ -37,8 +37,8 @@ models on websites.</p>
 
 
 ### Programming Languages I have used: 
-- Python (Numpy, Pandas, Sklearn, Keras, Django, Matplotlib, Seaborn, Django Rest Framework)
-- R
+- Python (Numpy, Pandas, Sklearn, Keras, Django, Matplotlib, Seaborn, Nltk, Django Rest Framework)
+- R (Caret, Dyplr, Tydyr)
 - Java Script (Vanilla)
 - Java
 
