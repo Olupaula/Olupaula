@@ -105,7 +105,7 @@ models on websites.</p>
 3. [The forum](https://github.com/Olupaula/the_forum)
 
 ### Machine Learning Projects (Using R)
-1. Classification: 
+#### 1. Classification: 
 <p align="center">
    <a href="https://github.com/Olupaula/heart_failure">Heart Failure</a>
   <br/>
