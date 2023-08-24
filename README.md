@@ -69,7 +69,7 @@ models on websites.</p>
    </a>
 </p>
 
-#### 2. Prediction Projects
+#### 2. Regression Projects
  
 <p align="center">
    <a href="https://github.com/Olupaula/energy_consumption">Energy Consumption</a>
@@ -84,6 +84,15 @@ models on websites.</p>
   <br/>
    <a href="https://github.com/Olupaula/condition_based_maintenance">
      <img src="https://github.com/Olupaula/condition_based_maintenance/blob/main/cbm_images/thomas-haas-Rs5FCVANby0-unsplash.jpg" height="150px" width="60%" />
+   </a>
+</p>
+#### 3. Unsupervised Learning
+
+<p align="center">
+   <a href="https://github.com/Olupaula/heart_failure">Heart Failure</a>
+  <br/>
+   <a href="https://github.com/Olupaula/heart_failure">
+     <img src="https://github.com/Olupaula/heart_failure/blob/main/heart_failure_images/robina-weermeijer-qIK_fc-4fmw-unsplash.jpg" height="150px" width="60%" />
    </a>
 </p>
 
@@ -103,7 +112,7 @@ models on websites.</p>
    </a>
 </p>
 
-2. Prediction:
+#### 2. Regression:
  
 images source: www.unsplash.com
 
