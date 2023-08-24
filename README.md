@@ -26,9 +26,11 @@ models on websites.</p>
 ### I am Interested in:
 <p>
 <ol>
-<li> Predictive Models</li>
-<li> Classification Models </li>
-<li> Text Processing </li>
+<li>Regression Models</li>
+<li>Classification Models</li>
+<li>Text Processing</li>
+<li>Unsupervised Learning</li>
+<li>Deep Learning</li>
 </ol>
 </p>
 
