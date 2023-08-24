@@ -29,7 +29,7 @@ models on websites.</p>
 <li>Regression Models</li>
 <li>Classification Models</li>
 <li>Text Processing</li>
-<li>Unsupervised Learning</li>
+<li>Clustering Models</li>
 <li>Deep Learning</li>
 </ol>
 </p>
