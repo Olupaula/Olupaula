@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I am <b> Oluwafemi Paul Adeyemi</b>
 <p> A graduand of Statistics (M.Sc.) of the University of Ilorin.
-I am a Machine Learning enthusiast. Proficient in classification models, predictive models, Unsupervised learning and text-processing. I am comfortable working with large datasets. 
+I am a Machine Learning enthusiast. Proficient in classification models, predictive models, clustering models and text-processing. I am comfortable working with large datasets. 
 Skilled at writing html, markdown, css and deploying 
 models on websites.</p>
 
@@ -88,7 +88,7 @@ models on websites.</p>
    </a>
 </p>
 
-#### 3. Clustering Learning Projects
+#### 3. Clustering Projects
 
 <p align="center">
    <a href="https://github.com/Olupaula/wine">Wine</a>
