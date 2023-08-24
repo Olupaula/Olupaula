@@ -88,7 +88,7 @@ models on websites.</p>
    </a>
 </p>
 
-#### 3. Unsupervised Learning
+#### 3. Clustering Learning Projects
 
 <p align="center">
    <a href="https://github.com/Olupaula/wine">Wine</a>
