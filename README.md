@@ -90,10 +90,10 @@ models on websites.</p>
 #### 3. Unsupervised Learning
 
 <p align="center">
-   <a href="https://github.com/Olupaula/heart_failure">Wine</a>
+   <a href="https://github.com/Olupaula/wine">Wine</a>
   <br/>
-   <a href="https://github.com/Olupaula/heart_failure">
-     <img src="https://github.com/Olupaula/heart_failure/blob/main/heart_failure_images/robina-weermeijer-qIK_fc-4fmw-unsplash.jpg" height="150px" width="60%" />
+   <a href="https://github.com/Olupaula/wine">
+     <img src="https://github.com/Olupaula/wine/blob/main/images/roberta-sorge-IywM7AQTZcM-unsplash.jpg" height="150px" width="60%" />
    </a>
 </p>
 
