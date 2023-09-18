@@ -101,7 +101,7 @@ models on websites.</p>
 #### 4. Text Processing
 
 <p align="center">
-   <a href="https://github.com/Olupaula/extract_cv_details>Extract CV details</a>
+   <a href="https://github.com/Olupaula/extract_cv_details">Extract CV details</a>
   <br/>
    <a href="https://github.com/Olupaula/extract_cv_details">
      <img src="https://github.com/Olupaula/extract_cv_details/blob/main/images/roberta-sorge-IywM7AQTZcM-unsplash.jpg" height="150px" width="60%" />
