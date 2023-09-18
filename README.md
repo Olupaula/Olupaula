@@ -101,7 +101,15 @@ models on websites.</p>
 #### 4. Text Processing
 
 <p align="center">
-   <a href="https://github.com/Olupaula/twitter_sentiment_analysis">Wine</a>
+   <a href="https://github.com/Olupaula/extract_cv_details>Extract CV details</a>
+  <br/>
+   <a href="https://github.com/Olupaula/extract_cv_details">
+     <img src="https://github.com/Olupaula/extract_cv_details/blob/main/images/roberta-sorge-IywM7AQTZcM-unsplash.jpg" height="150px" width="60%" />
+   </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/Olupaula/twitter_sentiment_analysis">Twitter Sentiment Analysis</a>
   <br/>
    <a href="https://github.com/Olupaula/twitter_sentiment_analysis">
      <img src="https://github.com/Olupaula/twitter_sentiment_analysis/blob/main/images/roberta-sorge-IywM7AQTZcM-unsplash.jpg" height="150px" width="60%" />
