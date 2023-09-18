@@ -112,7 +112,8 @@ models on websites.</p>
    <a href="https://github.com/Olupaula/twitter_sentiment_analysis/blob/main/images/pngtree-twitter-social-media-round-icon-png-image_6315985.png">Twitter Sentiment Analysis</a>
   <br/>
    <a href="https://github.com/Olupaula/twitter_sentiment_analysis">
-     <img src="https://github.com/Olupaula/twitter_sentiment_analysis/blob/main/images/roberta-sorge-IywM7AQTZcM-unsplash.jpg" height="150px" width="60%" />
+     <img src="https://github.com/Olupaula/twitter_sentiment_analysis/blob/main/images/pngtree-twitter-social-media-round-icon-png-image_6315985.png"
+height="150px" width="60%" />
    </a>
 </p>
 
