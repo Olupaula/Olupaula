@@ -98,6 +98,16 @@ models on websites.</p>
    </a>
 </p>
 
+#### 4. Text Processing
+
+<p align="center">
+   <a href="https://github.com/Olupaula/twitter_sentiment_analysis">Wine</a>
+  <br/>
+   <a href="https://github.com/Olupaula/twitter_sentiment_analysis">
+     <img src="https://github.com/Olupaula/twitter_sentiment_analysis/blob/main/images/roberta-sorge-IywM7AQTZcM-unsplash.jpg" height="150px" width="60%" />
+   </a>
+</p>
+
 ### Websites/Machine Learning Projects
 1. [MlClinic (Health)](https://github.com/Olupaula/mlclinic)
 2. [Scores](https://github.com/Olupaula/scores
