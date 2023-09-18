@@ -104,7 +104,7 @@ models on websites.</p>
    <a href="https://github.com/Olupaula/extract_cv_details">Extract CV details</a>
   <br/>
    <a href="https://github.com/Olupaula/extract_cv_details">
-     <img src="https://github.com/Olupaula/extract_cv_details/blob/main/images/roberta-sorge-IywM7AQTZcM-unsplash.jpg" height="150px" width="60%" />
+     <img src="https://github.com/Olupaula/extract_cv_details/blob/main/Images/unseen-studio-s9CC2SKySJM-unsplash.jpg" height="150px" width="60%" />
    </a>
 </p>
 
