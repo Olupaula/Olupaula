@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am Adeyemi, Oluwafemi Paul <small>(B.Sc., M.Sc. in Satistics)</small>
+## I am Adeyemi, Oluwafemi Paul 
 <p>
-I am a Machine Learning enthusiast. Proficient in classification models, predictive models, clustering models and text-processing. I am comfortable working with large datasets. 
+ I am a Machine Learning enthusiast with a Master of Science degree and also a Bachelor of Science degree in Statistics. I am Proficient in classification models, predictive models, clustering models and text-processing. I am comfortable working with large datasets. 
 Skilled at writing html, markdown, css and deploying 
 models on websites.</p>
 
