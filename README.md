@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am <b> Adeyemi, Oluwafemi Paul</b>
-<p> A graduand of Statistics (M.Sc.) of the University of Ilorin.
+## I am <b> Adeyemi, Oluwafemi Paul (B.Sc., M.Sc. in Satistics) </b>
+<p>
 I am a Machine Learning enthusiast. Proficient in classification models, predictive models, clustering models and text-processing. I am comfortable working with large datasets. 
 Skilled at writing html, markdown, css and deploying 
 models on websites.</p>
