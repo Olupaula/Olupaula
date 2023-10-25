@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am <b> Adeyemi, Oluwafemi Paul (B.Sc., M.Sc. in Satistics) </b>
+## I am Adeyemi, Oluwafemi Paul <small>(B.Sc., M.Sc. in Satistics)</small>
 <p>
 I am a Machine Learning enthusiast. Proficient in classification models, predictive models, clustering models and text-processing. I am comfortable working with large datasets. 
 Skilled at writing html, markdown, css and deploying 
