@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Skilled at writing html, markdown, css and deploying 
 models on websites.</p>
 
-[See my Curriculum Vitae](https://github.com/Olupaula/Olupaula/blob/main/OP_Adeyemi _cv_web_ml.pdf)
+[See my Curriculum Vitae](https://github.com/Olupaula/Olupaula/blob/main/O.P.%20Adeyemi%20_cv_web_ml.pdf)
 
 ### I am Interested in:
 <p>
