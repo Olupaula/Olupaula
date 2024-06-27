@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am Oluwafemi Paul Adeyemi, 
+## I am Oluwafemi Paul Adeyemi
 <p>
  I am a Machine Learning enthusiast with a Master of Science degree and also a Bachelor of Science degree in Statistics. I am Proficient in classification models, predictive models, clustering models and text-processing. I am comfortable working with large datasets. 
 Skilled at writing html, markdown, css and deploying 
