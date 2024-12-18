@@ -23,7 +23,7 @@ models on websites.</p>
 
 [See my Curriculum Vitae](https://github.com/Olupaula/Olupaula/blob/main/O.P.%20Adeyemi%20_cv_web_ml.pdf)
 
-[see my Tutorial Videos](https://www.youtube.com/@OPaulTech-mj7uf)
+[See my Tutorial Videos](https://www.youtube.com/@OPaulTech-mj7uf)
 
 ### I am Interested in:
 <p>
