@@ -92,7 +92,7 @@ models on websites.</p>
 #### 3. Clustering Projects
 
 <p align="center">
-   <a href="https://github.com/Olupaula/wine">Wine</a>
+   <a href="https://github.com/Olupaula/wine">Cluster Analysis of Branded Wines</a>
   <br/>
    <a href="https://github.com/Olupaula/wine">
      <img src="https://github.com/Olupaula/wine/blob/main/images/roberta-sorge-IywM7AQTZcM-unsplash.jpg" height="150px" width="60%" />
