@@ -56,7 +56,7 @@ models on websites.</p>
   
   
 <p align="center">
-  <a href="https://github.com/Olupaula/absenteeism">Absenteeism</a>
+  <a href="https://github.com/Olupaula/absenteeism">A Modelling of Employee Absenteeism using Supervised Classifiers</a>
   <br/>
     <a href="https://github.com/Olupaula/absenteeism">
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/arlington-research-kN_kViDchA0-unsplash.jpg" height="150px" width="60%" />
@@ -64,7 +64,7 @@ models on websites.</p>
 </p>
 
 <p align="center">
-   <a href="https://github.com/Olupaula/nursery">Nursery</a>
+   <a href="https://github.com/Olupaula/nursery">Machine Learning Classifiers for Nursery School Admissions</a>
   <br/>
    <a href="https://github.com/Olupaula/nursery">
      <img src="https://github.com/Olupaula/absenteeism/blob/main/images/bbc-creative-1w20Cysy1cg-unsplash.jpg" height="150px" width="60%" />
@@ -74,7 +74,7 @@ models on websites.</p>
 #### 2. Regression Projects
  
 <p align="center">
-   <a href="https://github.com/Olupaula/energy_consumption">Energy Consumption</a>
+   <a href="https://github.com/Olupaula/energy_consumption">Supervised Learning Models for Energy Consumption in Steel Industries</a>
   <br/>
    <a href="https://github.com/Olupaula/energy_consumption">
      <img src="https://github.com/Olupaula/energy_consumption/blob/main/energy_consumption_images/christopher-burns-8KfCR12oeUM-unsplash.jpg" height="150px" width="60%" />
@@ -82,7 +82,7 @@ models on websites.</p>
 </p>
  
  <p align="center">
-   <a href="https://github.com/Olupaula/condition_based_maintenance">Condition Based Maintenance of Naval Propulsion Plants</a>
+   <a href="https://github.com/Olupaula/condition_based_maintenance">Condition Based Maintenance of Naval Propulsion Plants - A Machine Learning Approach</a>
   <br/>
    <a href="https://github.com/Olupaula/condition_based_maintenance">
      <img src="https://github.com/Olupaula/condition_based_maintenance/blob/main/cbm_images/thomas-haas-Rs5FCVANby0-unsplash.jpg" height="150px" width="60%" />
@@ -102,7 +102,7 @@ models on websites.</p>
 #### 4. Text Processing
 
 <p align="center">
-   <a href="https://github.com/Olupaula/extract_cv_details">Extract CV details</a>
+   <a href="https://github.com/Olupaula/extract_cv_details">Extracting CV details using Text processing Techniques</a>
   <br/>
    <a href="https://github.com/Olupaula/extract_cv_details">
      <img src="https://github.com/Olupaula/extract_cv_details/blob/main/Images/unseen-studio-s9CC2SKySJM-unsplash.jpg" height="150px" width="60%" />
